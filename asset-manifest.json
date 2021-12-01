@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/customerReferalApp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/customerReferalApp/static/js/main.15a2c71f.chunk.js",
+    "main.js.map": "/customerReferalApp/static/js/main.15a2c71f.chunk.js.map",
+    "runtime-main.js": "/customerReferalApp/static/js/runtime-main.dfc9bc13.js",
+    "runtime-main.js.map": "/customerReferalApp/static/js/runtime-main.dfc9bc13.js.map",
+    "static/js/2.bed8d186.chunk.js": "/customerReferalApp/static/js/2.bed8d186.chunk.js",
+    "static/js/2.bed8d186.chunk.js.map": "/customerReferalApp/static/js/2.bed8d186.chunk.js.map",
+    "static/js/3.5198a20b.chunk.js": "/customerReferalApp/static/js/3.5198a20b.chunk.js",
+    "static/js/3.5198a20b.chunk.js.map": "/customerReferalApp/static/js/3.5198a20b.chunk.js.map",
+    "index.html": "/customerReferalApp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/customerReferalApp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bed8d186.chunk.js.LICENSE.txt": "/customerReferalApp/static/js/2.bed8d186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfc9bc13.js",
+    "static/js/2.bed8d186.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.15a2c71f.chunk.js"
+  ]
+}
