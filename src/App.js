@@ -1,23 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
-
+import './components/ThankYou';
+import './components/ReferralForm';
+import {useState} from 'react';
+import ReferralForm from './components/ReferralForm';
+import CustomerFeedbackForm from './components/CustomerFeedbackForm';
+import {Container} from '@mui/material';
 function App() {
+
+  const [customer, setCustomer] = useState('');
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Container>
+        <CustomerFeedbackForm/>
+
+      </Container>
     </div>
   );
 }
